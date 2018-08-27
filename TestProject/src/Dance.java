@@ -5,5 +5,4 @@ public class Dance {
 		// TODO Auto-generated method stub
 		System.out.println("Watch those chickens dance!");
 	}
-
 }
